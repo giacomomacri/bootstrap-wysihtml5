@@ -408,6 +408,7 @@
             },
             tags: {
                 "b":  {},
+                "p":  {},
                 "i":  {},
                 "br": {},
                 "ol": {},
@@ -454,6 +455,7 @@
         en: {
             font_styles: {
                 normal: "Normal text",
+                p: "Paragraph",
                 h1: "Heading 1",
                 h2: "Heading 2",
                 h3: "Heading 3"
